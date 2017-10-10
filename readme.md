@@ -7,7 +7,9 @@ This is a sample project to test around with Offline mode capabilities using Ser
 ### Step 1
 
 ```composer install```
+
 ```cp .env.example .env```
+
 ```php artisan key:generate```
 
 ### Step 2
